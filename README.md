@@ -16,9 +16,8 @@ Completed an intensive 17-week program focused on building full-stack web applic
 - 💡 Exploring **AI** and **machine learning** (a future passion project!).
 
 ## 🌐 **Find Me Online**
-- **[GitHub](https://github.com/manija-wahab)**: See what I'm building.
 - **Email**: nooryawahab@gmail.com  
-- **[Linkedin](https://www.linkedin.com/in/noorya-wahab/)**: Please ignore my weird profile photo I really can't take pictures
+- **[Linkedin](https://www.linkedin.com/in/noorya-wahab/)**
 
 ### A Little About Me ✨
 
